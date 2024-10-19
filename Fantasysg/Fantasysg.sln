@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasysg.Backend", "Fantasysg.Backend\Fantasysg.Backend.csproj", "{194B52F4-59FC-4980-B332-07228AEC0ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasysg.Backend", "Fantasysg.Backend\Fantasysg.Backend.csproj", "{194B52F4-59FC-4980-B332-07228AEC0ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasysg.Frontend", "Fantasysg.Frontend\Fantasysg.Frontend.csproj", "{BE29B556-D52E-45F4-AEE4-3DC8C314E530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasysg.Frontend", "Fantasysg.Frontend\Fantasysg.Frontend.csproj", "{BE29B556-D52E-45F4-AEE4-3DC8C314E530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasysg.Shared", "Fantasysg.Shared\Fantasysg.Shared.csproj", "{6E622D14-2F82-403A-9CB9-9D4E3E8B500D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasysg.Shared", "Fantasysg.Shared\Fantasysg.Shared.csproj", "{6E622D14-2F82-403A-9CB9-9D4E3E8B500D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasysg.Test", "Fantasysg.Test\Fantasysg.Test.csproj", "{3D2DA231-DDA8-41CD-81DC-9761611C200B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasysg.Test", "Fantasysg.Test\Fantasysg.Test.csproj", "{3D2DA231-DDA8-41CD-81DC-9761611C200B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
